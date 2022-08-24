@@ -37,3 +37,12 @@ nav {
 #our-team{
     margin-top: 11vh;
 }
+
+.heading2{
+    text-align: center;
+    font-size: xx-large;
+    margin-bottom: 2vh;
+}
+body{
+    background-color: rgb(253, 249, 244);
+}
