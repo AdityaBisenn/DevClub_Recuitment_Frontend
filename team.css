@@ -1,0 +1,39 @@
+nav {
+    background-color: #f1f1f1;
+    opacity: 85%;
+    padding: 0.5rem;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+    display: flex;
+}
+#logo{
+    flex: 1;
+    padding-left: 2px;
+    opacity: 100%;
+}
+#nav-links{
+    flex: 8;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#nav1:hover,#nav2:hover,#nav3:hover,#nav4:hover,#nav5:hover{
+    color: #6c6a6a;
+    /* border: #464646; */
+}
+#nav5{
+    margin-right: 4vw;
+}
+
+.heading{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 5vh;
+}
+#our-team{
+    margin-top: 11vh;
+}
